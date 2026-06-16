@@ -1,0 +1,8 @@
+﻿{
+    "artifact":  "ops-artifact-5249773.tar",
+    "sha":  "5249773",
+    "container":  "engine2-next-5249773",
+    "image":  "robdoe.aiagency101/engine2-ops:5249773",
+    "runtime":  "robdoe.aiagency101/engine2-ops-run:5249773",
+    "next":  "engine2-next:5249773"
+}
