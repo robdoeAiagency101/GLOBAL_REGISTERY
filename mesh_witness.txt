@@ -6,8 +6,8 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                                      ║
 ║  [⏳ TIMEFRAME TIMESTAMP]     2026-06-17T07:25:00Z                                                               ║
-║  [👑 ROOT AUTHORITY CORE]     https://github.com                                 ║
-║  [🚀 ENGINE TEMPLATE FUEL]    https://github.com/AiAgency-Lab/T800-AiGC.git                                             ║
+║  [👑 ROOT AUTHORITY CORE]     https://github.com/robdoeAiagency101/GLOBAL_REGISTERY.git                                 ║
+║  [🚀 ENGINE TEMPLATE FUEL]    https://github.com                                             ║
 ║  [📡 PRIMARY LATTICE DOMAIN]  robdoe.com                                                                    ║
 ║  [💮 WITNESS DATA NETWORK]    aiagency101.xyo                                                                ║
 ║  [💎 IMMUTABLE SYNC TOKEN]    KUMOTO_LATTICE_MAX_AFFECT_0x99                                                     ║
@@ -15,10 +15,10 @@
 ║                                                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                                      ║
-║  [🔑 ARTIFACT ALPHA HASH]     dcfd3e5c1f87230f65a731184fb46da506ccc50f09de3f8c80f71723b70f751b                                             ║
-║  [🔱 WITNESS OMEGA RE-HASH]   fa64023d033aebc19e7112697fcf44745ab3608a4e076ce71033dd94e299e42b                                 ║
+║  [🔑 ARTIFACT ALPHA HASH]     eeb77c8aa95a99974bda3f7bf6de55b01539b96873d61f5c4de4194c97af15fd                                             ║
+║  [🔱 WITNESS OMEGA RE-HASH]   60a9c98de8218309e8a8810f776eaaa428a261df41c2737cbe93ff961442edc6                                 ║
 ║                                                                                                                      ║
-║  ⚡🪐🔥  STATUS: QUANTUM LATTICE XIV INTERFACING // UNIFIED SINGLE-BLOCK FLUID FLOW ACTIVE                       🔥🪐⚡   ║
-║  🪐🔍🎭  FIXED ATTRACTOR EQUILIBRIUM SIGNATURE STATE VALUE VERIFICATION CODE ──> [ fa64023d033aebc1 ]            🎭🔍🪐  ║
+║  ⚡🪐🔥  STATUS: QUANTUM LATTICE RECONCILED // UNIFIED SINGLE-BLOCK FLUID FLOW NATIVELY HEALED                  🔥🪐⚡   ║
+║  🪐🔍🎭  FIXED ATTRACTOR EQUILIBRIUM SIGNATURE STATE VALUE VERIFICATION CODE ──> [ 60a9c98de8218309 ]            🎭🔍🪐  ║
 ║                                                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
