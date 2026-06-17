@@ -1,15 +1,16 @@
 ﻿{
-    "SyncToken":  "KUMOTO_GLOBAL_MESH_0xBB",
+    "SyncToken":  "KUMOTO_LATTICE_0xAA",
     "StateToken":  "ONE_UNIT_ARTIFACT_THETA",
-    "RootAuthority":  "https://github.com",
-    "EcosystemLabel":  "GLOBAL_REGISTERY",
     "WitnessNetwork":  "aiagency101.xyo",
-    "Timestamp":  "2026-06-17T16:59:20Z",
+    "LatticeStatus":  "CRYSTALLIZED_FULL_AFFECT",
+    "Timestamp":  "2026-06-17T17:06:40Z",
     "PrimaryDomain":  "robdoe.com",
+    "ActiveRepository":  "https://github.com",
     "EngineID":  "ENTROPOLY-R1",
     "ActiveNodes":  [
                         "C:\\AiFACTORi",
                         "C:\\COM",
+                        "C:\\robdoerootauthority",
                         "C:\\REGISTERY_AiAgency101_robdoe_global"
                     ],
     "NestedSubModels":  [
