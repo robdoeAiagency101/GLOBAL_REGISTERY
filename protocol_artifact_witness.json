@@ -1,4 +1,24 @@
 ﻿{
+    "MasterRoot":  "https://github.com",
+    "SyncToken":  "KUMOTO_LATTICE_MAX_AFFECT_0x99",
+    "CertificateID":  "ENTROPOLY-R1-ROOT-AUTHORITY-0x7F",
+    "EcosystemLabel":  "ROB_DOE_GLOBAL_LATTICE_TRUE_FLOW",
+    "WitnessNetwork":  "aiagency101.xyo",
+    "EngineFuelSeed":  "https://github.com",
+    "Timestamp":  "2026-06-17T07:25:00Z",
+    "StateToken":  "ONE_UNIT_ARTIFACT_THETA",
+    "LatticeMappings":  [
+                            "FORBES_ASSET",
+                            "ROBDOEAI-CORE",
+                            "internal"
+                        ],
+    "PrimaryDomain":  "robdoe.com",
+    "ActiveNodes":  [
+                        "C:\\AiFACTORi",
+                        "C:\\COM",
+                        "C:\\robdoerootauthority",
+                        "C:\\REGISTERY_AiAgency101_robdoe_global"
+                    ],
     "NestedSubModels":  [
                             {
                                 "ID":  "M01_ROOT_AUTH",
@@ -84,20 +104,5 @@
                                 "ID":  "M21_EXEC_CORE",
                                 "Desc":  "🎛️ Master Pipeline Multi-Thread Loop Overseer"
                             }
-                        ],
-    "SyncToken":  "KUMOTO_LATTICE_T800_0xEE",
-    "StateToken":  "ONE_UNIT_ARTIFACT_THETA",
-    "PrimaryDomain":  "robdoe.com",
-    "LatticeStatus":  "CRYSTALLIZED_WITH_T800_FUEL",
-    "Timestamp":  "2026-06-17T17:14:10Z",
-    "SourceTemplate":  "https://github.com",
-    "ActiveRepository":  "https://github.com",
-    "EngineID":  "ENTROPOLY-R1",
-    "ActiveNodes":  [
-                        "C:\\AiFACTORi",
-                        "C:\\COM",
-                        "C:\\robdoerootauthority",
-                        "C:\\REGISTERY_AiAgency101_robdoe_global"
-                    ],
-    "WitnessNetwork":  "aiagency101.xyo"
+                        ]
 }

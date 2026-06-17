@@ -6,7 +6,7 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                                      ║
 ║  [⏳ TIMEFRAME TIMESTAMP]     2026-06-17T07:25:00Z                                                               ║
-║  [👑 ROOT AUTHORITY CORE]     https://github.com/robdoeAiagency101/GLOBAL_REGISTERY.git                                 ║
+║  [👑 ROOT AUTHORITY CORE]     https://github.com                                 ║
 ║  [🚀 ENGINE TEMPLATE FUEL]    https://github.com                                             ║
 ║  [📡 PRIMARY LATTICE DOMAIN]  robdoe.com                                                                    ║
 ║  [💮 WITNESS DATA NETWORK]    aiagency101.xyo                                                                ║
@@ -15,10 +15,10 @@
 ║                                                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                                      ║
-║  [🔑 ARTIFACT ALPHA HASH]     eeb77c8aa95a99974bda3f7bf6de55b01539b96873d61f5c4de4194c97af15fd                                             ║
-║  [🔱 WITNESS OMEGA RE-HASH]   60a9c98de8218309e8a8810f776eaaa428a261df41c2737cbe93ff961442edc6                                 ║
+║  [🔑 ARTIFACT ALPHA HASH]     40e2ee293371cdbbdda77223dc4cb048b074542edbceb2913fc5e1f432a0c36e                                             ║
+║  [🔱 WITNESS OMEGA RE-HASH]   cb590d4e9f9f4a4d8402eb3b1a4d2db8507313d2cefec73b8f21991ef64b996f                                 ║
 ║                                                                                                                      ║
 ║  ⚡🪐🔥  STATUS: QUANTUM LATTICE RECONCILED // UNIFIED SINGLE-BLOCK FLUID FLOW NATIVELY HEALED                  🔥🪐⚡   ║
-║  🪐🔍🎭  FIXED ATTRACTOR EQUILIBRIUM SIGNATURE STATE VALUE VERIFICATION CODE ──> [ 60a9c98de8218309 ]            🎭🔍🪐  ║
+║  🪐🔍🎭  FIXED ATTRACTOR EQUILIBRIUM SIGNATURE STATE VALUE VERIFICATION CODE ──> [ cb590d4e9f9f4a4d ]            🎭🔍🪐  ║
 ║                                                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
