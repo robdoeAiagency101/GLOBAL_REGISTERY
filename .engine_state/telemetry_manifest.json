@@ -1,0 +1,12 @@
+{
+  "cycle": "live_mesh_telemetry_poll",
+  "telemetry_root": "b315ed416f2fd1153852c08ee92def1c0c0ca910a7d681482c43bf847df22b09c091a194c5f00c6cc9bd642f7dcec9a92469c8a47bb05f03bbb735cd10bba4f9",
+  "metrics": {
+    "mesh_nodes_active": 572,
+    "endpoints_monitored": 1216,
+    "wallets_active": 64,
+    "equity_compliance": "95.00%",
+    "status": "TELEMETRY_VERIFIED",
+    "timestamp": 1791576378
+  }
+}
