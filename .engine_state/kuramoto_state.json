@@ -1,0 +1,8 @@
+{
+  "engine": "kuramoto_phase_synchronization",
+  "node_count": 572,
+  "mean_phase": 3.13610035874086,
+  "kuramoto_root": "fe8489494fc72ecff82353a779c79a8d6490341d8d66678ccfa2e18db7444c9276e2401a5d1355779e71d51f1ddd11f7df55d730a24d9f175a341e77e050d40e",
+  "equity_compliance": "95.00%",
+  "timestamp": 1791576638
+}
