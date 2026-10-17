@@ -1,6 +1,10 @@
 {
-  "root_hash": "7e37b13b14330792572b0dd562066452650b6a78e02038d704620bc467e433ce6308e1a8c5242cfda830538c5fda30f291df340635440be6387b1fc1a736ad53",
-  "timestamp": "2026-10-17T23:02:12Z",
-  "node": "MotoG06-Termux",
-  "domain": "robdoe.com"
+  "root_hash": "939a1fc80ef800b10778031371f6e467da92e31ca19e79f18dbd7b95b8b01c281f19d97618b968ff88f4bc94b201ceb8a38921c7ad890d5eadfb853dcbbeab73",
+  "timestamp": "2026-10-17T23:05:52Z",
+  "domains": [
+    "robdoe.com",
+    "robertdoe.pw",
+    "aiagency101.xyo"
+  ],
+  "node": "MotoG06-Termux"
 }
