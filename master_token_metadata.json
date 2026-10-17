@@ -1,0 +1,36 @@
+{
+    "name": "RobDoe Sovereign Registry - Master State Deed",
+    "description": "Unified cryptographic bridge of mathematical proofs, HMRC/ATO tax pooling ledgers, and domain infrastructure anchored to invariant M = 932808725.",
+    "image": "ipfs://bafybeigdyrzt5sfp7udm7hu76uh7y26nf3efuylqabf3oclgtqy55fbzdi",
+    "attributes": [
+        {
+            "trait_type": "System Invariant",
+            "value": 932808725
+        },
+        {
+            "trait_type": "Total Tax Records",
+            "value": 3
+        },
+        {
+            "trait_type": "Math Engine Status",
+            "value": "OPERATIONAL"
+        },
+        {
+            "trait_type": "Compliance Framework",
+            "value": "ATO Capital Property / HMRC Section 104"
+        }
+    ],
+    "tax_ledger_sample": {
+        "invariant": "932808725",
+        "asset": "GECKO",
+        "units_disposed": "10000",
+        "proceeds_aud": "1.2",
+        "cost_basis_deducted_aud": "0.5",
+        "capital_gain_loss_aud": "0.7",
+        "compliance_framework": "ATO Capital Property / HMRC Pooling"
+    },
+    "math_proof_summary": {
+        "steps_executed": 10,
+        "target_wallet": "0x84CA4aFC3F395ebc0b519680B546Cd604C9c2018"
+    }
+}
