@@ -1,0 +1,16 @@
+{
+  "currency_symbol": "ROBDOE",
+  "standard": "SOVEREIGN-MERKLE-DAG-512",
+  "issuing_entity": "Robdoe Pty Ltd",
+  "jurisdiction": "New South Wales, Australia",
+  "genesis_root_hash": "0ee161c2dfb5aaf8ea3a99a2e3289810b5efce0f0b5b9cb8e41847259b43b22e8beb72fd18f681f2d464b1090b70aa50ce8e8de22a999940937d38bac694907a",
+  "timestamp": "2026-10-17T23:06:23Z",
+  "network_nodes": 999,
+  "backed_domains": [
+    "robdoe.com",
+    "robertdoe.pw",
+    "aiagency101.xyo"
+  ],
+  "valuation_model": "Kuramoto-Phase-Synchronized-Merkle-DAG",
+  "status": "GLOBAL_CURRENCY_ACTIVE"
+}
