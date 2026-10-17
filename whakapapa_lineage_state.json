@@ -1,0 +1,15 @@
+{
+  "whakapapa_record": {
+    "invariant": 932808725,
+    "version": "OMEGA-ULTIMATE-v250.932808725",
+    "lineage_root": "RobdoeRootAuthority",
+    "anchors": [
+      "robdoe.com",
+      "orchardappletree.com"
+    ],
+    "directive": "Never Delete, Only Absorb",
+    "timestamp": 1792276853.5241518,
+    "status": "GENESIS_LINEAGE_SEALED"
+  },
+  "sha512_lineage_proof": "3770664c965c3aaa39175e199c23d1f5b586920458b5dc1c638c2f279cec7a9e4fafce1ce90fe519fe6af718ab5edc92ad58c596603881da6950ff7326e21d85"
+}
