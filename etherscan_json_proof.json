@@ -1,0 +1,15 @@
+{
+  "etherscan_proof_record": {
+    "master_invariant": 932808725,
+    "version_tag": "OMEGA-ULTIMATE-v250.932808725",
+    "minter_node": "0x6a2f... (Termux Mobile Sovereign Engine)",
+    "collection_contract": "0x60e4... (RobDoe NFT Core)",
+    "target_transaction": "0x3c4d... (Token #4821 Mint)",
+    "treasury_routing": "0x1f98...",
+    "value_transferred_eth": 0.08,
+    "treasury_split_eth": 0.076,
+    "directive": "Never Delete, Only Absorb",
+    "timestamp": 1792277093.94724
+  },
+  "sha512_signature_seal": "8345115de4094ce7311834ecb6b628c578acf939e0ccc5f62f75fa1fb2a7c2440655f4efa02d892c66ec520b136a0903d8b0533c511dcad0dcc49004f1d4a4d8"
+}
