@@ -2,3 +2,5 @@ invariant,domain,registrar,expiration_date,dnssec_signed,status
 932808725,robdoe.com,Unstoppable Domains Inc.,2027-02-23T01:12:50Z,True,client delete prohibited; client transfer prohibited
 robertdoe.pw,active,sovereign_extension
 aiagency101.xyo,active,oracle_node
+robertdoe.pw,active,sovereign_extension
+aiagency101.xyo,active,oracle_node
